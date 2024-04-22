@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Amin
 - 👀 I’m interested in web Applications and Ai
-- 🌱 I’m currently learning Network Security
+- 🌱 I’m currently learning Network Security And Python
 - 💞️ I’m looking to collaborate on big projects
 - 📫 How to reach me 
 - Telegram : @amk8320
