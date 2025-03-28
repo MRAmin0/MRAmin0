@@ -7,8 +7,19 @@ Passionate about **Web Development**, **AI**, and **Network Security**. Currentl
 ---
 
 ## 💡 **What I'm Learning**
-- **Network Security** 🔒
-- **Advanced Python** 🐍
+
+### 🐍 **Advanced Python**  
+Deep dive into Python's advanced features, including:
+- Object-Oriented Programming (OOP) 🛠️
+- Decorators and Context Managers 🎯
+- Asynchronous Programming with `asyncio` ⚡
+
+### 🌿 **Git & Version Control**  
+Mastering **Git** to streamline workflows:
+- Branching & Merging 🌱
+- Resolving Conflicts 🔄
+- GitHub Actions & CI/CD ⚙️
+
 
 ---
 
