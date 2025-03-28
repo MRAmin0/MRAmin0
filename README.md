@@ -1,7 +1,8 @@
-# 👨‍💻 **Hi, I'm Amin!**
+# 👨‍💻 Hi, I’m Amin!
 
-**Web Development** | **AI** | **Network Security**  
-Currently diving deep into **Python** and building exciting projects. 🚀
+Passionate about **Web Development**, **AI**, and **Network Security**. Currently diving into **Python** and working on exciting projects in these fields.
+
+🚀 *Looking for collaboration opportunities!*
 
 ---
 
