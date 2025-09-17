@@ -10,8 +10,9 @@ Passionate about **Android Development** and **Native Programming**. Actively bu
 
 ### 📱 Android Development
 Building native applications for the Android ecosystem:
-- Developing with **Java** & **Kotlin** ☕
-- Mastering **Android Studio** for app creation 💻
+- UI Design with **XML** and **Jetpack Compose** 🎨
+- App Logic with **Java** & **Kotlin** ☕
+- Mastering **Android Studio** as the primary IDE 💻
 
 ### 🌿 Git & Version Control
 Mastering **Git** to streamline workflows:
@@ -21,10 +22,10 @@ Mastering **Git** to streamline workflows:
 
 ---
 
-
 ## 🔧 Technologies I Use
 
 - ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+- ![XML](https://img.shields.io/badge/XML-007ACC?style=for-the-badge)
 - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 - ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 - ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
