@@ -1,80 +1,61 @@
-# 👨‍💻 Hi, I’m Amin!
+👨‍💻 Hi, I'm Amin!
 
-Passionate about **Android Development** and **Native Programming**. Actively building projects and seeking new challenges in native development.
+A passionate mobile application developer with a focus on building beautiful and smooth user experiences with Flutter and Native Android development. I'm always building new projects and looking for exciting challenges in the mobile world.
 
-🚀 *Looking for collaboration opportunities!*
+🚀 Open to collaborating on innovative projects!
 
----
+💡 My Key Skills
 
-## 💡 What I'm Learning
+🚀 Cross-Platform Development with Flutter
 
-### 📱 Android Development
+Building beautiful, high-performance applications for web and mobile from a single codebase:
+
+Complex UI design with animations and custom styles ✨
+
+State Management and API integration 🌐
+
+Web deployment using services like Netlify ☁️
+
+📱 Native Android Development
+
 Building native applications for the Android ecosystem:
-- UI Design with **XML** and **Jetpack Compose** 🎨
-- App Logic with **Java** & **Kotlin** ☕
-- Mastering **Android Studio** as the primary IDE 💻
 
-### 🌿 Git & Version Control
-Mastering **Git** to streamline workflows:
-- Branching & Merging 🌱
-- Resolving Conflicts 🔄
-- GitHub Actions & CI/CD ⚙️
+UI design with XML and Jetpack Compose 🎨
 
----
+Implementing app logic with Java & Kotlin ☕
 
-## 🔧 Technologies I Use
+Mastery of Android Studio as the primary IDE 💻
 
-- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-- ![XML](https://img.shields.io/badge/XML-007ACC?style=for-the-badge)
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-- ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-- ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-- ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
-- ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
-- ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
+🔧 Technologies I Use
 
----
+🔍 Featured Projects
 
-## 🔍 Current Projects
+Weatherly 🌦️
 
+A complete and beautiful weather application built from scratch with Flutter and deployed as a live web app.
 
-### [Duplicate File Scanner](https://github.com/MRAmin0/Duplicate-File-Scanner)
-A Python script that scans files using SHA-256 hashing and saves duplicates in a `duplicates.json` file.
-It supports ignoring specific directories and shows results both in console and JSON format.
+Features: Live weather data, 5-day forecast, animated backgrounds (rain, snow, etc.), Glassmorphism UI, theme settings (Light/Dark/System), and city search with autocomplete.
 
----
+Technologies: Flutter, Dart, OpenWeatherMap API, simple_animations.
 
-## 📫 Reach Me
+Duplicate File Scanner
 
-- **Telegram**: [@amk8320](https://t.me/amk8320)
-- **LinkedIn**: [Amin's LinkedIn](https://www.linkedin.com/in/amin-monajati/)
-- **Discord**: [My Discord](https://discordapp.com/users/872238492401434624)
-- **Instagram**: [MY Instagram](https://www.instagram.com/amin.m8320/)
----
+A Python script that scans for duplicate files in a specified directory using SHA-256 hashing and saves the results in the console and a duplicates.json file.
 
-## 📈 GitHub Stats
+📫 How to Reach Me
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=MRAmin0&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
+Telegram: @amk8320
 
-### 🔢 More charts
+LinkedIn: Amin Monajati
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MRAmin0&layout=compact&theme=radical)
+Discord: My Discord
 
----
+Instagram: amin.m8320
 
+📈 My GitHub Stats
 
-## 🌱 I’m Always Learning!
+💬 Let's Collaborate!
 
-I'm dedicated to mastering the Android ecosystem and continuously improving my skills. My current focus areas include:
+I welcome issues and pull requests in my repositories. I'm always eager to learn and collaborate on new projects!
 
-- **Modern Android Development** with Kotlin and Jetpack Compose.
-- **Advanced App Architecture**, including MVVM and Clean Architecture.
-- **Performance Optimization** to build fast and responsive applications.
-
----
-
-## 💬 Let’s Connect and Collaborate!
-
-Feel free to open issues or pull requests on my repositories. I’m always eager to learn and collaborate on Android projects!
-
-**Thanks for visiting my profile!** 🚀
+Thanks for visiting! 🚀
