@@ -56,7 +56,7 @@ Developing clean and efficient apps in the Android ecosystem:
 
 ## 🔍 Featured Projects
 
-### 🌦️ [Weatherly](https://weathery-apps.netlify.app/)
+### 🌦️ [Weatherly](https://github.com/MRAmin0/Weatherly)
 A beautiful and complete weather application built entirely with Flutter and deployed on the web.
 
 **Features**
